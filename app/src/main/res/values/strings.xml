@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Whack-A-Ghost</string>
+    <string name="description">description</string>
+    <string name="todo">TODO</string>
+    <string name="start">start</string>
+    <string name="return_to_start_page">return to start page</string>
+    <string name="ghost_1">ghost_1</string>
+    <string name="score">score</string>
+    <string name="hole_1">hole_1</string>
+    <string name="hole_2">hole_2</string>
+    <string name="hole_3">hole_3</string>
+    <string name="hole_4">hole_4</string>
+    <string name="ghost_4">ghost_4</string>
+    <string name="ghost_3">ghost_3</string>
+    <string name="ghost_2">ghost_2</string>
+</resources>
